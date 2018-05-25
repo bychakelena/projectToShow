@@ -1,5 +1,5 @@
 document.routePoints = [
-    [ 50, 50 ], [ 200, 130 ], [ 400, 230 ], [ 100, 320 ]
+    [ 100, 20 ], [ 700, 400 ], [ 50, 230 ], [ 150, 320 ]
 ]
 
 var Personage = function ( params ) {
@@ -84,8 +84,9 @@ Personage.prototype.mc_personage = function ( event ) {
 Personage.prototype.defaultRoute = [
 		[ 50, 50 ], [ 300, 300 ], [ 100, 300 ], [ 200, 50 ]
 ]
-Personage.prototype.defaultPersonageImage = "./images/personage.gif"
-Personage.prototype.defaultPointImage = "./images/tree.gif"
+Personage.prototype.defaultPointImage = "./images/iceberg001.gif"
+Personage.prototype.defaultPersonageImage = "./images/personageNew.gif"
+
 
 Personage.prototype.personageStyle = {
 		position: "fixed",

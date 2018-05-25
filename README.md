@@ -1,27 +1,25 @@
-For my students
+My first project
 ( let's learn how to work with github )
 
-You should clone this repo
+I've cloned the repo
 
-Then try to change code so that personage starts move on button click
+I've changed the personage image
 
-You may change personage image
+I've changed the route
 
-You may change route
+I've changed the route points image
 
-You may change route points image
+Then I indexed changes and commit them
 
-Then you should index changes and commit them
-
-Then create repo on github
+Then I created repo on github
 
 Set this repo as remote
 
-Push your commit from local master branch to remote
+Pushed my commit from local master branch to remote
 
-Then create gh-pages branch on remote
+Then created gh-pages branch on remote
 
-Publish your mini-project and enjoy
+Published my mini-project and enjoyed
 
 _______________________________________________
 This sample is published at
